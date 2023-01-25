@@ -2,11 +2,15 @@
 share: true
 publish-path: person
 repo:
-  branch: main #change default branch 
-  repo: family-wiki #change default repository
-  owner: safrilth #change default owner (it's your github Username)
-  autoclean: false #enable auto cleaning
+  branch: main
+  repo: family-wiki
+  owner: safrilth
+  autoclean: false
+tags:
+  - FamilyWiki
+  - FamilyRadenSinggih
 ---
+
 #FamilyWiki #FamilyRadenSinggih 
 ## Biodata
 
